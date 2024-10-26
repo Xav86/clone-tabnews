@@ -4,7 +4,7 @@
   "description": "Um projeto de aprendizado onde vou recriar o https://tabnews.com.br junto ao https://curso.dev",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev"
   },
   "author": "",
   "license": "MIT",
